@@ -1,0 +1,99 @@
+c:\users\root\documents\visual studio 2010\Projects\ajanda\ajanda\obj\x86\Debug\ajanda.Properties.Resources.resources
+c:\users\root\documents\visual studio 2010\Projects\ajanda\ajanda\obj\x86\Debug\ajanda.csproj.GenerateResource.Cache
+c:\users\root\documents\visual studio 2010\Projects\ajanda\ajanda\bin\Debug\ajanda.exe
+c:\users\root\documents\visual studio 2010\Projects\ajanda\ajanda\bin\Debug\ajanda.pdb
+c:\users\root\documents\visual studio 2010\Projects\ajanda\ajanda\obj\x86\Debug\ajanda.exe
+c:\users\root\documents\visual studio 2010\Projects\ajanda\ajanda\obj\x86\Debug\ajanda.pdb
+c:\users\root\documents\visual studio 2010\Projects\ajanda\ajanda\obj\x86\Debug\ajanda.Form1.resources
+c:\users\root\documents\visual studio 2010\Projects\ajanda\ajanda\obj\x86\Debug\ajanda.Giris.resources
+C:\Users\root\documents\visual studio 2010\Projects\ajanda\ajanda\obj\x86\Debug\ajanda.csprojResolveAssemblyReference.cache
+C:\Users\root\documents\visual studio 2010\Projects\ajanda\ajanda\obj\x86\Debug\ajanda.Sorgu.resources
+C:\Users\root\documents\visual studio 2010\Projects\ajanda\ajanda\obj\x86\Debug\ajanda.AraEkran.resources
+C:\Users\root\documents\visual studio 2010\Projects\ajanda\ajanda\obj\x86\Debug\ajanda.Silme.resources
+C:\Users\root\documents\visual studio 2010\Projects\ajanda\ajanda\obj\x86\Debug\ajanda.Kullanici_form.resources
+C:\Users\root\Documents\Visual Studio 2010\Projects\Ajanda\ajanda\obj\x86\Debug\ajanda.kullanici_islem.resources
+F:\proje\Projects\Ajanda\ajanda\obj\x86\Debug\ajanda.exe
+G:\proje\Projects - Format\Ajanda\ajanda\obj\x86\Debug\ajanda.exe
+F:\proje\Projects - Format\Ajanda\ajanda\obj\x86\Debug\ajanda.exe
+F:\proje\Projects - Format\Ajanda\ajanda\bin\Debug\ajanda.exe
+F:\proje\Projects - Format\Ajanda\ajanda\bin\Debug\ajanda.pdb
+F:\proje\Projects - Format\Ajanda\ajanda\obj\x86\Debug\ajanda.csprojResolveAssemblyReference.cache
+F:\proje\Projects - Format\Ajanda\ajanda\obj\x86\Debug\ajanda.AraEkran.resources
+F:\proje\Projects - Format\Ajanda\ajanda\obj\x86\Debug\ajanda.Kullanici_form.resources
+F:\proje\Projects - Format\Ajanda\ajanda\obj\x86\Debug\ajanda.Form1.resources
+F:\proje\Projects - Format\Ajanda\ajanda\obj\x86\Debug\ajanda.Giris.resources
+F:\proje\Projects - Format\Ajanda\ajanda\obj\x86\Debug\ajanda.kullanici_islem.resources
+F:\proje\Projects - Format\Ajanda\ajanda\obj\x86\Debug\ajanda.Properties.Resources.resources
+F:\proje\Projects - Format\Ajanda\ajanda\obj\x86\Debug\ajanda.Silme.resources
+F:\proje\Projects - Format\Ajanda\ajanda\obj\x86\Debug\ajanda.Sorgu.resources
+F:\proje\Projects - Format\Ajanda\ajanda\obj\x86\Debug\ajanda.csproj.GenerateResource.Cache
+F:\proje\Projects - Format\Ajanda\ajanda\obj\x86\Debug\ajanda.pdb
+E:\proje\Projects - Format\Ajanda\ajanda\obj\x86\Debug\ajanda.exe
+E:\proje\Projects - Format\Ajanda\ajanda\obj\x86\Debug\ajanda.pdb
+C:\System Recovery Files\2015-02-19 011944\C\Okul\4.Dönem\Ajanda\ajanda\obj\x86\Debug\ajanda.exe
+C:\System Recovery Files\2015-02-19 011944\C\Okul\4.Dönem\Ajanda\ajanda\obj\x86\Debug\ajanda.pdb
+C:\System Recovery Files\2015-02-19 011944\C\Okul\4.Dönem\Ajanda\ajanda\bin\Debug\ajanda.exe
+C:\System Recovery Files\2015-02-19 011944\C\Okul\4.Dönem\Ajanda\ajanda\bin\Debug\ajanda.pdb
+C:\System Recovery Files\2015-02-19 011944\C\Okul\4.Dönem\Ajanda\ajanda\obj\x86\Debug\ajanda.AraEkran.resources
+C:\System Recovery Files\2015-02-19 011944\C\Okul\4.Dönem\Ajanda\ajanda\obj\x86\Debug\ajanda.Kullanici_form.resources
+C:\System Recovery Files\2015-02-19 011944\C\Okul\4.Dönem\Ajanda\ajanda\obj\x86\Debug\ajanda.Form1.resources
+C:\System Recovery Files\2015-02-19 011944\C\Okul\4.Dönem\Ajanda\ajanda\obj\x86\Debug\ajanda.Giris.resources
+C:\System Recovery Files\2015-02-19 011944\C\Okul\4.Dönem\Ajanda\ajanda\obj\x86\Debug\ajanda.kullanici_islem.resources
+C:\System Recovery Files\2015-02-19 011944\C\Okul\4.Dönem\Ajanda\ajanda\obj\x86\Debug\ajanda.Properties.Resources.resources
+C:\System Recovery Files\2015-02-19 011944\C\Okul\4.Dönem\Ajanda\ajanda\obj\x86\Debug\ajanda.Silme.resources
+C:\System Recovery Files\2015-02-19 011944\C\Okul\4.Dönem\Ajanda\ajanda\obj\x86\Debug\ajanda.Sorgu.resources
+C:\System Recovery Files\2015-02-19 011944\C\Okul\4.Dönem\Ajanda\ajanda\obj\x86\Debug\ajanda.csproj.GenerateResource.Cache
+C:\System Recovery Files\2015-02-19 011944\C\Okul\4.Dönem\Ajanda\ajanda\obj\x86\Debug\ajanda.notdefteri.resources
+C:\System Recovery Files\2015-02-19 011944\C\Okul\4.Dönem\Ajanda\ajanda\obj\x86\Debug\ajanda.kullanici_duzenle.resources
+C:\System Recovery Files\2015-02-19 011944\C\Okul\4.Dönem\Ajanda\ajanda\obj\x86\Debug\ajanda.hatirlatma.resources
+C:\System Recovery Files\2015-02-19 011944\C\Okul\4.Dönem\Ajanda\ajanda\obj\x86\Debug\ajanda.csprojResolveAssemblyReference.cache
+C:\System Recovery Files\2015-02-19 011944\C\Okul\4.Dönem\Ajanda\ajanda\obj\x86\Debug\ajanda.notarama.resources
+C:\System Recovery Files\2015-02-19 011944\C\Okul\4.Dönem\Ajanda\ajanda\obj\x86\Debug\ajanda.not_duzenle.resources
+C:\System Recovery Files\2015-02-19 011944\C\Okul\4.Dönem\Ajanda\ajanda\obj\x86\Debug\ajanda.ic_sifre_degistir.resources
+C:\System Recovery Files\2015-02-19 011944\C\Okul\4.Dönem\Ajanda\ajanda\obj\x86\Debug\ajanda.ic_eposta_degistrime.resources
+C:\System Recovery Files\2015-02-19 011944\C\Okul\4.Dönem\Ajanda\ajanda\obj\x86\Debug\ajanda.kullanici_guncelle_sil.resources
+C:\System Recovery Files\2015-02-19 011944\C\Okul\4.Dönem\Ajanda\ajanda\obj\x86\Debug\ajanda.admin_not_arama.resources
+B:\Ajanda\ajanda\obj\x86\Debug\ajanda.exe
+B:\Ajanda\ajanda\obj\x86\Debug\ajanda.pdb
+B:\Ajanda\ajanda\obj\x86\Debug\ajanda.csprojResolveAssemblyReference.cache
+B:\Ajanda\ajanda\obj\x86\Debug\ajanda.AraEkran.resources
+B:\Ajanda\ajanda\obj\x86\Debug\ajanda.Form1.resources
+B:\Ajanda\ajanda\obj\x86\Debug\ajanda.Giris.resources
+B:\Ajanda\ajanda\obj\x86\Debug\ajanda.hatirlatma.resources
+B:\Ajanda\ajanda\obj\x86\Debug\ajanda.ic_eposta_degistrime.resources
+B:\Ajanda\ajanda\obj\x86\Debug\ajanda.ic_sifre_degistir.resources
+B:\Ajanda\ajanda\obj\x86\Debug\ajanda.kullanici_islem.resources
+B:\Ajanda\ajanda\obj\x86\Debug\ajanda.kullanici_duzenle.resources
+B:\Ajanda\ajanda\obj\x86\Debug\ajanda.kullanici_guncelle_sil.resources
+B:\Ajanda\ajanda\obj\x86\Debug\ajanda.notarama.resources
+B:\Ajanda\ajanda\obj\x86\Debug\ajanda.notdefteri.resources
+B:\Ajanda\ajanda\obj\x86\Debug\ajanda.not_duzenle.resources
+B:\Ajanda\ajanda\obj\x86\Debug\ajanda.Properties.Resources.resources
+B:\Ajanda\ajanda\obj\x86\Debug\ajanda.Silme.resources
+B:\Ajanda\ajanda\obj\x86\Debug\ajanda.Sorgu.resources
+B:\Ajanda\ajanda\obj\x86\Debug\ajanda.csproj.GenerateResource.Cache
+B:\Ajanda\ajanda\bin\Debug\ajanda.exe
+B:\Ajanda\ajanda\bin\Debug\ajanda.pdb
+B:\Ajanda\ajanda\obj\x86\Debug\ajanda.hatirlatma_duzenle.resources
+E:\Projeler\C#\Ajanda\ajanda\obj\x86\Debug\ajanda.exe
+E:\Projeler\C#\Ajanda\ajanda\obj\x86\Debug\ajanda.pdb
+E:\Projeler\C#\Ajanda\ajanda\bin\Debug\ajanda.exe
+E:\Projeler\C#\Ajanda\ajanda\bin\Debug\ajanda.pdb
+E:\Projeler\C#\Ajanda\ajanda\obj\x86\Debug\ajanda.csprojResolveAssemblyReference.cache
+E:\Projeler\C#\Ajanda\ajanda\obj\x86\Debug\ajanda.AraEkran.resources
+E:\Projeler\C#\Ajanda\ajanda\obj\x86\Debug\ajanda.Form1.resources
+E:\Projeler\C#\Ajanda\ajanda\obj\x86\Debug\ajanda.Giris.resources
+E:\Projeler\C#\Ajanda\ajanda\obj\x86\Debug\ajanda.hatirlatma.resources
+E:\Projeler\C#\Ajanda\ajanda\obj\x86\Debug\ajanda.hatirlatma_duzenle.resources
+E:\Projeler\C#\Ajanda\ajanda\obj\x86\Debug\ajanda.ic_eposta_degistrime.resources
+E:\Projeler\C#\Ajanda\ajanda\obj\x86\Debug\ajanda.ic_sifre_degistir.resources
+E:\Projeler\C#\Ajanda\ajanda\obj\x86\Debug\ajanda.kullanici_islem.resources
+E:\Projeler\C#\Ajanda\ajanda\obj\x86\Debug\ajanda.kullanici_duzenle.resources
+E:\Projeler\C#\Ajanda\ajanda\obj\x86\Debug\ajanda.kullanici_guncelle_sil.resources
+E:\Projeler\C#\Ajanda\ajanda\obj\x86\Debug\ajanda.notarama.resources
+E:\Projeler\C#\Ajanda\ajanda\obj\x86\Debug\ajanda.notdefteri.resources
+E:\Projeler\C#\Ajanda\ajanda\obj\x86\Debug\ajanda.not_duzenle.resources
+E:\Projeler\C#\Ajanda\ajanda\obj\x86\Debug\ajanda.Properties.Resources.resources
+E:\Projeler\C#\Ajanda\ajanda\obj\x86\Debug\ajanda.Silme.resources
+E:\Projeler\C#\Ajanda\ajanda\obj\x86\Debug\ajanda.Sorgu.resources
+E:\Projeler\C#\Ajanda\ajanda\obj\x86\Debug\ajanda.csproj.GenerateResource.Cache
