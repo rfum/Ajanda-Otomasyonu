@@ -1,9 +1,9 @@
-#Türkçe
+# Türkçe
 
-#Önlisans Mezuniyet projesi 2015
+# Önlisans Mezuniyet projesi 2015
 
-#Name: Sosyal Ajanda Otomasyonu.
-#Projede kullanılan teknolojiler : C# , Access DB ile bağlantılı.
+# Name: Sosyal Ajanda Otomasyonu.
+# Projede kullanılan teknolojiler : C# , Access DB ile bağlantılı.
 ~~~~
 ##Özellikler:
 * Kullanıcılar kendi kişisel notlarını,telefon rehberlerini veritabanında saklayabilir.Hatırlatma notları yazarak kendilerine hatırlatmak istedikleri şeyleri windows popup aracılığı ile istedikleri zaman hatırlatabilirler.
@@ -17,12 +17,12 @@ bin/Debug : Derlenmiş .exe dosyası ve access veri tabanı
 Properties , obj/x86/Debug  : IDE tarafından oluşturulan dosyalar.
 
 ~~~~
-#English
+# English
 
-#Associate Graduation project.
+# Associate Graduation project.
 
-#Name: Social Agenda Automation.
-#Technology used to power up the project: C# in contact with Access DB.
+# Name: Social Agenda Automation.
+# Technology used to power up the project: C# in contact with Access DB.
 ~~~~
 ##Specs.:
 * Users can put some private notes into their agenda reminder system reminds their notes in a windows popup whenever they wish.
